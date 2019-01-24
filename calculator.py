@@ -1,6 +1,6 @@
-print(" |------------------| ")
-print(" | my first sicrept |")
-print(" |------------------| ")
+print(" |--------------------------------------| ")
+print(" | my first code i think it's a code :D |")
+print(" |--------------------------------------| ")
 try:
 	num1 = int(input("choose a number: "))
 	op = input("choose an operator: ")
