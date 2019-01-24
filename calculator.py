@@ -1,6 +1,6 @@
-print(" |-----------| ")
-print(" |   Mhamad  |")
-print(" |-----------| ")
+print(" |------------------| ")
+print(" | my first sicrept |")
+print(" |------------------| ")
 try:
 	num1 = int(input("choose a number: "))
 	op = input("choose an operator: ")
@@ -14,4 +14,4 @@ try:
 	elif op == "/":
 		print(num1 / num2)
 except:
-	print("nope")
+	print("that's not right")
