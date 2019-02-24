@@ -1,6 +1,7 @@
 def calculator():
 
-	try:		while True:
+	try:		
+		while True:
 
 			print("                      |------------|")
 
